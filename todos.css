@@ -1,0 +1,36 @@
+body{
+	margin: 0 auto;
+    width: 600px;
+}
+
+#app {
+	border-radius: 10px;
+	background-color: #D5CBD8;
+}
+
+h1{
+	font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 30px;
+    border: 1px #D63BA1;
+}
+
+ul .todos{
+	text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    line-height: 2rem;
+}
+input {
+	width: 30rem;
+    margin-left: 4rem;
+    height: 2rem;
+    border: none;
+    position: static;
+    margin-top: 2rem;
+}
+
+#newTodo {
+	border-radius: 10px;
+}
